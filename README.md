@@ -29,8 +29,6 @@ Data Science/ML is vast and growing at an exponential rate;
 
 This github is my attempt to figure some of it and share my knowledge
 
-![Mohammed's github stats](https://github-readme-stats.vercel.app/api?username=mdphd19&show_icons=true&theme=radical)
-
 Footer
 © 2023 GitHub, Inc.
 Footer navigation
